@@ -1,0 +1,19 @@
+{
+  "name": "nft_transfer_script_seaport",
+  "version": "1.0.0",
+  "description": "transfering NFT using seaport ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport.git"
+  },
+  "author": "Sufiyan aka Derek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport/issues"
+  },
+  "homepage": "https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport#readme"
+}
