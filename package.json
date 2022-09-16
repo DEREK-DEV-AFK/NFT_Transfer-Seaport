@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport/issues"
   },
-  "homepage": "https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport#readme"
+  "homepage": "https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport#readme",
+  "dependencies": {
+    "@opensea/seaport-js": "^1.0.6",
+    "ethers": "^5.7.1"
+  }
 }
