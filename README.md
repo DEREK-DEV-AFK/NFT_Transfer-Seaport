@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport/issues" alt="Contributors">
+        <img src="https://img.shields.io/github/issues/DEREK-DEV-AFK/NFT_Transfer-Seaport" /></a>
+<a href="https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport" alt="Contributors">
+        <img src="https://img.shields.io/github/forks/DEREK-DEV-AFK/NFT_Transfer-Seaport" /></a>
+<a href="https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport" alt="Contributors">
+        <img src="https://img.shields.io/github/stars/DEREK-DEV-AFK/NFT_Transfer-Seaport" /></a> 
+        <a href="https://github.com/DEREK-DEV-AFK/NFT_Transfer-Seaport" alt="Contributors">
+        <img src="https://img.shields.io/github/license/DEREK-DEV-AFK/NFT_Transfer-Seaport" /></a>  
+</p>  
+
 # NFT Transfer Seaport Script
 
 This is an script for setting up your item/NFT for offer/sale and fulfill/buy it by other user/Address.Using openseas seaport.
